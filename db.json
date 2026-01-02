@@ -1,0 +1,244 @@
+{
+  "users": [
+    {
+      "id": "1b1d",
+      "username": "jaymin",
+      "email": "jaymin75@gmail.com",
+      "password": "2222"
+    },
+    {
+      "id": "e9f0",
+      "username": "meet",
+      "email": "meetkakkad44@gmail.com",
+      "password": "1111111"
+    },
+    {
+      "id": "3f3e",
+      "username": "nishita",
+      "email": "nishitamorjariya@gmail.com",
+      "password": "abcd1234"
+    },
+    {
+      "id": "95f3",
+      "username": "meet",
+      "email": "dgajjar224@gmail.com",
+      "password": "11111"
+    }
+  ],
+  "lifeinsurance": [
+    {
+      "id": "c9be",
+      "companyName": "hdfc",
+      "policyName": "Nishita Morzaria",
+      "policyNumber": "11234567",
+      "sumInsurance": "12345",
+      "premiumAmount": "2000",
+      "startDate": "2025-11-20",
+      "lastPremiumDate": "2025-11-20",
+      "endDate": "2027-11-27",
+      "nomineeName": "durva",
+      "nomineeRelation": "daughter",
+      "paymentMode": "ECS",
+      "userName": "nishita ji",
+      "emailId": "nishitamorjariya@gmail.com",
+      "documents": {
+        "panCard": "",
+        "aadharCard": "",
+        "chequeCopy": ""
+      }
+    },
+    {
+      "id": "6640",
+      "companyName": "icici",
+      "policyName": "Nishita Morzaria",
+      "policyNumber": "112345",
+      "sumInsurance": "200000",
+      "premiumAmount": "2000",
+      "startDate": "2025-12-04",
+      "lastPremiumDate": "2025-12-04",
+      "endDate": "2028-11-23",
+      "nomineeName": "jaymin",
+      "nomineeRelation": "husband",
+      "paymentMode": "ECS",
+      "userName": "nishita",
+      "emailId": "nishitamorjariya@gmail.com"
+    },
+    {
+      "id": "382c",
+      "userName": "durva",
+      "emailId": "durvam@gmail.com",
+      "companyName": "hdfc",
+      "policyName": "life insurance",
+      "policyNumber": "112345",
+      "sumInsurance": "19999",
+      "premiumAmount": "",
+      "startDate": "",
+      "lastPremiumDate": "",
+      "endDate": "",
+      "nomineeName": "",
+      "nomineeRelation": "",
+      "paymentMode": "Bank Transfer",
+      "documents": {
+        "panCard": "",
+        "aadharCard": "",
+        "chequeCopy": ""
+      }
+    }
+  ],
+  "healthInsurance": [
+    {
+      "id": "56b5",
+      "userName": "nishita",
+      "emailId": "nishitamorjariya@gmail.com",
+      "companyName": "health",
+      "policyName": "sample",
+      "policyNumber": "1234",
+      "sumInsurance": "20000",
+      "premiumAmount": "5000",
+      "startDate": "",
+      "tenuar": "",
+      "renewalDate": "",
+      "familyMember1": "",
+      "familyMemberRelation1": "",
+      "familyMember2": "",
+      "familyMemberRelation2": "",
+      "familyMember3": "",
+      "familyMemberRelation3": "",
+      "familyMember4": "",
+      "familyMemberRelation4": "",
+      "familyMember5": "",
+      "familyMemberRelation5": "",
+      "paymentMode": "",
+      "panCard": null,
+      "aadharCard": null,
+      "chequeCopy": null,
+      "documents": {
+        "panCard": null,
+        "aadharCard": null,
+        "chequeCopy": null
+      },
+      "createdAt": "2025-12-29T07:04:17.356Z"
+    }
+  ],
+  "mutualfunds": [
+    {
+      "id": "063c",
+      "userName": "nishita",
+      "emailId": "nishitamorjariya@gmail.com",
+      "fundType": "Debt Fund",
+      "fundName": "mutual fund",
+      "sipAmount": "20000",
+      "sipDate": "2025-12-04",
+      "startDate": "2025-12-04",
+      "maturityDate": "2026-12-04",
+      "sipFrequency": "Monthly",
+      "nomineeName": "dhvanit",
+      "nomineeRelation": "son"
+    },
+    {
+      "id": "8c58",
+      "userName": "nishita morjaria",
+      "emailId": "nishitamorjariya@gmail.com",
+      "fundType": "Equity Fund",
+      "fundName": "mutual fund",
+      "sipAmount": "20000",
+      "sipDate": "",
+      "startDate": "",
+      "endDate": "",
+      "sipFrequency": "",
+      "nomineeName": "",
+      "nomineeRelation": "",
+      "nomineePan": "",
+      "nomineedob": ""
+    }
+  ],
+  "loans": [
+    {
+      "id": "ca56",
+      "userName": "nishita",
+      "emailId": "nishitamorjariya@gmail.com",
+      "loanType": "home",
+      "amount": "20000000",
+      "interestRate": "1",
+      "tenure": "12",
+      "bankName": "hdfc",
+      "startDate": "",
+      "loanAccountNumber": "1234567",
+      "paymentMode": "ECS"
+    }
+  ],
+  "fixedDeposits": [
+    {
+      "id": "48fe",
+      "userName": "nishita",
+      "emailId": "nishitamorjariya@gmail.com",
+      "amount": "200000",
+      "term": "12",
+      "bankName": "sbi",
+      "interestRate": "20",
+      "startDate": "2025-12-03",
+      "maturityDate": "2026-01-08",
+      "paymentMode": "Cheque",
+      "createdAt": "2025-12-04T05:34:20.487Z"
+    }
+  ],
+  "bonds": [
+    {
+      "id": "c72a",
+      "userName": "nishita",
+      "emailId": "nishitamorjariya@gmail.com",
+      "bondName": "bond",
+      "issuer": "bhadresh",
+      "faceValue": "20000",
+      "interestRate": "20",
+      "purchaseDate": "2025-12-03",
+      "maturityDate": "2026-01-10",
+      "quantity": "70",
+      "paymentMode": "Cash",
+      "createdAt": "2025-12-04T05:18:20.106Z"
+    },
+    {
+      "id": "25c7",
+      "userName": "nishita",
+      "emailId": "nishitamorjariya@gmail.com",
+      "bondName": "bond",
+      "issuer": "bhadresh",
+      "faceValue": "",
+      "interestRate": "",
+      "purchaseDate": "",
+      "maturityDate": "",
+      "quantity": "",
+      "paymentMode": "",
+      "createdAt": "2025-12-21T06:30:41.368Z"
+    },
+    {
+      "id": "438d",
+      "userName": "nishita ji",
+      "emailId": "nishitamorjariya@gmail.com",
+      "bondName": "",
+      "issuer": "",
+      "faceValue": "",
+      "interestRate": "",
+      "purchaseDate": "",
+      "maturityDate": "",
+      "quantity": "",
+      "paymentMode": "",
+      "createdAt": "2025-12-21T06:35:50.617Z"
+    }
+  ],
+  "stocks": [
+    {
+      "id": "f5ec",
+      "userName": "jaymin",
+      "emailId": "dgajjar224@gmail.com",
+      "stockName": "hdfc",
+      "symbol": "rss",
+      "buyPrice": "20000",
+      "quantity": "20",
+      "brokerName": "bha",
+      "purchaseDate": "",
+      "paymentMode": "",
+      "createdAt": "2025-12-22T05:12:17.829Z"
+    }
+  ]
+}
